@@ -1,4 +1,4 @@
-package com.example.demo.C_Builder.after;
+package com.example.demo.C_builder.after;
 
 public interface HouseBuilder {
     HouseBuilder buildGarage(int num);

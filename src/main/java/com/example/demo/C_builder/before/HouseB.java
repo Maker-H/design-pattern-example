@@ -1,4 +1,4 @@
-package com.example.demo.C_Builder.before;
+package com.example.demo.C_builder.before;
 
 public class HouseB {
 

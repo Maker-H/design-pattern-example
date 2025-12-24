@@ -1,4 +1,4 @@
-package com.example.demo.C_Builder.after;
+package com.example.demo.C_builder.after;
 
 public class Main {
     public static void main(String[] args) {
